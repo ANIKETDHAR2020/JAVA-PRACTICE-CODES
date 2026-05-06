@@ -76,10 +76,14 @@ It dynamically takes user input and efficiently searches for a target element.
 ##  Example
 
 ### Input
-10 8 6 4 2 -1
-Target: 6
+Enter elements (sorted). Type -1 to stop:
+33
+333
+3444
+-1
+Enter target: 333
 
 
 ### Output
 
-Element found at index: 2
+Element found at index: 1
